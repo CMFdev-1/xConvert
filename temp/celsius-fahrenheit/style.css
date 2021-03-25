@@ -1,0 +1,10 @@
+body {
+   background-color: #2B2B2B;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+}
+input[type=number], textarea, select {
+   font-size: 17px;
+   font-family: 'Montserrat', sans-serif;
+   border: 1px solid #000000;
+}
